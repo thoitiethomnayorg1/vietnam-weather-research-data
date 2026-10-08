@@ -1,0 +1,35 @@
+﻿code,name,region,lat,lon,avg_temp_summer_c,realfeel_max_c,humidity_winter_spring_pct,dew_point_avg_c,nom_am_days_per_year,winter_aqi_pm25_avg,uv_max,hub_url
+HN,Hà Nội,Đồng bằng sông Hồng,21.0285,105.8542,34.5,44.2,84.2,22.8,32,172.5,11.2,https://thoitiethomnay.org/ha-noi/
+HP,Hải Phòng,Đồng bằng sông Hồng,20.8449,106.6881,33.8,43.0,86.0,23.1,30,145.0,11.0,https://thoitiethomnay.org/hai-phong/
+QN,Quảng Ninh,Đông Bắc Bộ (Ven biển),20.9505,107.0734,33.0,42.2,85.5,22.5,28,118.0,10.8,https://thoitiethomnay.org/quang-ninh/
+BN,Bắc Ninh,Đồng bằng sông Hồng,21.1861,106.0763,34.2,43.8,84.8,22.7,31,165.0,11.1,https://thoitiethomnay.org/bac-ninh/
+HY,Hưng Yên,Đồng bằng sông Hồng,20.6464,106.0511,34.0,43.5,85.2,22.9,33,158.0,11.2,https://thoitiethomnay.org/hung-yen/
+NB,Ninh Bình,Đồng bằng sông Hồng,20.2506,105.9745,34.1,43.6,85.8,23.0,32,142.0,11.3,https://thoitiethomnay.org/ninh-binh/
+PT,Phú Thọ,Trung du Bắc Bộ,21.3228,105.4019,33.7,42.8,84.0,22.3,27,138.0,11.0,https://thoitiethomnay.org/phu-tho/
+TN,Thái Nguyên,Đông Bắc Bộ,21.5928,105.8442,33.5,42.5,83.5,22.1,25,140.0,10.9,https://thoitiethomnay.org/thai-nguyen/
+TQ,Tuyên Quang,Đông Bắc Bộ,21.8236,105.2147,33.2,42.0,84.5,21.8,24,115.0,10.8,https://thoitiethomnay.org/tuyen-quang/
+LC,Lào Cai,Tây Bắc Bộ (Núi cao),22.4856,103.9707,28.5,34.0,88.6,19.5,60,75.0,9.5,https://thoitiethomnay.org/lao-cai/
+LS,Lạng Sơn,Đông Bắc Bộ,21.8537,106.7615,31.8,39.5,85.0,20.8,26,92.0,10.5,https://thoitiethomnay.org/lang-son/
+CB,Cao Bằng,Đông Bắc Bộ,22.6666,106.2639,31.5,39.0,84.2,20.4,25,85.0,10.4,https://thoitiethomnay.org/cao-bang/
+DB,Điện Biên,Tây Bắc Bộ,21.3869,103.0231,32.0,40.0,81.0,20.1,18,82.0,11.0,https://thoitiethomnay.org/dien-bien/
+LCH,Lai Châu,Tây Bắc Bộ,22.3963,103.4684,29.2,35.5,86.0,19.8,45,68.0,10.2,https://thoitiethomnay.org/lai-chau/
+SL,Sơn La,Tây Bắc Bộ,21.3256,103.9188,30.5,37.8,82.5,20.2,20,78.0,10.8,https://thoitiethomnay.org/son-la/
+TH,Thanh Hóa,Bắc Trung Bộ,19.8067,105.7852,35.2,44.5,85.0,23.5,22,135.0,11.5,https://thoitiethomnay.org/thanh-hoa/
+NA,Nghệ An,Bắc Trung Bộ,18.6734,105.6813,36.2,45.2,84.5,23.8,20,128.0,11.6,https://thoitiethomnay.org/nghe-an/
+HT,Hà Tĩnh,Bắc Trung Bộ,18.3429,105.9059,36.5,45.5,85.2,24.0,18,120.0,11.7,https://thoitiethomnay.org/ha-tinh/
+QT,Quảng Trị,Bắc Trung Bộ,16.7486,107.1854,36.6,45.6,86.0,24.2,16,112.0,11.7,https://thoitiethomnay.org/quang-tri/
+TTH,Thừa Thiên Huế,Bắc Trung Bộ,16.4637,107.5909,36.8,45.8,86.5,24.5,18,105.0,11.8,https://thoitiethomnay.org/thua-thien-hue/
+DN,Đà Nẵng,Nam Trung Bộ,16.0544,108.2022,35.2,43.5,78.4,23.5,6,95.0,11.5,https://thoitiethomnay.org/da-nang/
+QNG,Quảng Ngãi,Nam Trung Bộ,15.1205,108.7923,35.0,43.2,79.0,23.6,4,88.0,11.6,https://thoitiethomnay.org/quang-ngai/
+KH,Khánh Hòa,Nam Trung Bộ,12.2388,109.1967,34.2,42.0,77.5,23.2,0,78.0,11.8,https://thoitiethomnay.org/khanh-hoa/
+GL,Gia Lai,Tây Nguyên,13.9833,108.0,29.5,36.0,80.0,20.8,0,65.0,11.9,https://thoitiethomnay.org/gia-lai/
+DLK,Đắk Lắk,Tây Nguyên,12.6667,108.05,30.5,37.5,79.5,21.0,0,70.0,12.0,https://thoitiethomnay.org/dak-lak/
+LD,Lâm Đồng,Tây Nguyên (Cao nguyên),11.9404,108.4583,20.8,23.5,85.0,16.5,0,45.0,12.0,https://thoitiethomnay.org/lam-dong/
+SG,TP. Hồ Chí Minh,Đông Nam Bộ,10.8231,106.6297,35.0,43.0,72.5,24.2,0,130.0,12.2,https://thoitiethomnay.org/tp-ho-chi-minh/
+DN_NB,Đồng Nai,Đông Nam Bộ,10.9574,106.8427,34.8,42.6,73.0,24.0,0,122.0,12.1,https://thoitiethomnay.org/dong-nai/
+TN_NB,Tây Ninh,Đông Nam Bộ,11.31,106.0983,35.2,43.2,71.8,23.8,0,110.0,12.2,https://thoitiethomnay.org/tay-ninh/
+CT,Cần Thơ,Tây Nam Bộ,10.0452,105.7469,34.0,42.0,78.5,24.5,0,95.0,12.0,https://thoitiethomnay.org/can-tho/
+AG,An Giang,Tây Nam Bộ,10.3833,105.4167,34.2,42.4,77.0,24.3,0,88.0,12.0,https://thoitiethomnay.org/an-giang/
+DT,Đồng Tháp,Tây Nam Bộ,10.4578,105.6339,34.0,42.1,78.0,24.4,0,90.0,12.0,https://thoitiethomnay.org/dong-thap/
+VL,Vĩnh Long,Tây Nam Bộ,10.2537,105.9722,33.8,41.8,79.0,24.5,0,85.0,11.9,https://thoitiethomnay.org/vinh-long/
+CM,Cà Mau,Tây Nam Bộ (Cực Nam),9.1769,105.1524,33.2,41.5,81.0,24.8,0,75.0,11.8,https://thoitiethomnay.org/ca-mau/
