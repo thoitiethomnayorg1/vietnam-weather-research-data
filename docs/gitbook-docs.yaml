@@ -5,5 +5,7 @@ site:
     - type: space
       key: vietnam-weather-data
       title: Dữ Liệu Khí Tượng 34 Tỉnh Thành
-      path: .
+      path: docs
       default: true
+      content:
+        directory: .
