@@ -1,0 +1,9 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: ThoiTietHomNay.org Docs
+  structure:
+    - type: space
+      key: vietnam-weather-data
+      title: Dữ Liệu Khí Tượng 34 Tỉnh Thành
+      path: .
+      default: true
